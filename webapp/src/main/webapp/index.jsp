@@ -1,2 +1,1 @@
-<h1> Hello,  how r u  !!! </h1>
-<h2> welcome to jenkins  !!! </h2>
+<h1> Hello,  how r u, welcome to jenkins !!! </h1>
