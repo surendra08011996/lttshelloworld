@@ -2,3 +2,4 @@
 <h2> try to jenkins pipeline will be configured in aws !!! </h2>
 <h3> pipeline will be configured to aws !!! <h3/>
 <h4> successfully configured aws  !!! <h4/>
+<h5> warf file will be configured to aws  !!! <h5/>
